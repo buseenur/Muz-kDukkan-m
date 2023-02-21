@@ -1,0 +1,33 @@
+nav{
+    background-color: gray;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+a{
+    text-decoration: none;
+    display:flexbox;
+    color: blue;
+}
+h2{
+    text-align: center;
+    color: brown;
+}
+body{
+    background-color: #E9ECEF;
+}
+h1{
+    color: crimson;
+    text-align: center;
+}
+li{
+text-align: center;
+list-style-position:inside;
+}
+button{
+    background-color: blue;
+    height: 30px;
+    margin-top: 10px;
+}
+
+
